@@ -69,15 +69,14 @@ color_map = plt.cm.get_cmap('tab20c')
 
 default_colors = dict()
 default_colors['purple'] = '#AC72F0'
-default_colors['green'] = '#00CF83'
-default_colors['orange'] = '#F5863B'
+default_colors['cyan'] = '#85F5EB'
 default_colors['blue'] = '#1F77FA'
 default_colors['dark_blue'] = '#014D7A'
 default_colors['light_blue'] = '#5CC6FF'
-default_colors['gray'] = '#ebf4f6'
+default_colors['light_cyan'] = '#AFEDF3'
+default_colors['magenta'] = '#8F2071'
+default_colors['gray'] = '#696868'
 
-
-default_colors['red'] = '#EB1933'
 default_colors['dark_purple'] = '#7B00FF'
 default_colors['pink'] = '#EB47C3'
 default_colors['cyan'] = '#0ADDEB'
