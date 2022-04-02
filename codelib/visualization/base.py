@@ -532,6 +532,7 @@ def correlation_plot(correlation_matrix: np.ndarray, names: Union[List[str], Non
     if 'size_scale' in kwargs:
         size_scale = kwargs['size_scale']
 
+
     # create data frame with correlation matrix
     df_correlation = pd.DataFrame(correlation_matrix, columns=names, index=names)
 
