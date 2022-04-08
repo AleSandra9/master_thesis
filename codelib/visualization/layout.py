@@ -74,7 +74,7 @@ default_colors['blue'] = '#1F77FA'
 default_colors['dark_blue'] = '#014D7A'
 default_colors['light_blue'] = '#5CC6FF'
 default_colors['light_cyan'] = '#AFEDF3'
-default_colors['magenta'] = '#8F2071'
+default_colors['magenta'] = 'y'
 default_colors['gray'] = '#696868'
 
 default_colors['dark_purple'] = '#7B00FF'
